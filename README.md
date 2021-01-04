@@ -40,3 +40,6 @@ Here are some ideas to get you started:
 ### Typescript e CSS
 - [Proffy](https://github.com/anabeatrizzz/proffy-nlw)
   - Possui README.md explicativo.
+
+### Python
+- [Formatador aritmético](https://github.com/anabeatrizzz/boilerplate-arithmetic-formatter)
