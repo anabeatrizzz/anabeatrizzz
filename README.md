@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+⚡ __Fun fact__: I'm winner of [2020's 333Challenge](https://github.com/codigofalado/desafio333/pull/41)
+
 ## Projetos
 ### React Native
 - [Lanchonete Ana Banana](https://github.com/anabeatrizzz/app-mobile2-refeito)
