@@ -3,7 +3,7 @@
 <h2 align="center">Projetos</h2>
 
 | React Native | React | JS, HTML, CSS | Typescript |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | [Lanchonete Ana Banana](https://github.com/anabeatrizzz/app-mobile2-refeito)<br>Possui README.md explicativo | [anaflix](https://github.com/anabeatrizzz/anaflix)<br>Possui README.md explicativo | [Aplicativo Clima Tempo](https://github.com/anabeatrizzz/api-clima-tempo) | [Proffy](https://github.com/anabeatrizzz/proffy-nlw)<br>Possui README.md explicativo
 | [Relógio](https://github.com/anabeatrizzz/mobile2-app-um)<br>Possui README.md explicativo | | [Aplicativo Calculadora](https://github.com/anabeatrizzz/monaca-app-dois)<br>Possui README.md explicativo
 | [Tela de Login](https://github.com/anabeatrizzz/mobile2-app-tres)<br>Possui README.md explicativo | | [API](https://github.com/anabeatrizzz/monaca-app-cinco)
