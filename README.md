@@ -1,4 +1,4 @@
-### 🧐️ __Interesting fact__: I'm winner of [2020's 333Challenge](https://github.com/codigofalado/desafio333/pull/41)
+### 🧐️ __Fato interessante__: Ganhei o [Desafio333 de janeiro/2020](https://github.com/codigofalado/desafio333/pull/41)
 
 <h2 align="center">Projetos</h2>
 
