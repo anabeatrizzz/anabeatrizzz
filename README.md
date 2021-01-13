@@ -1,6 +1,4 @@
-<p align="center">
-  <h3> 🧐️ Fato interessante: Ganhei o <a href="https://github.com/codigofalado/desafio333/pull/41">Desafio333 de janeiro/2020</a></h3>
-</p>
+<h3 align="center"> 🧐️ Fato interessante: Ganhei o <a href="https://github.com/codigofalado/desafio333/pull/41">Desafio333 de janeiro/2020</a></h3>
 
 <h2 align="center">Projetos</h2>
 
