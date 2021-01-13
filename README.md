@@ -22,4 +22,7 @@
   <a href="https://www.hackerrank.com/anabeatrizz">
     <img src="https://img.shields.io/badge/hackerrank-2EC866?logo=hackerrank&labelColor=black&style=for-the-badge" />
   </a>
+  <a href="https://www.khanacademy.org/profile/anabeeeatriz">
+    <img src="https://img.shields.io/badge/khan academy-14BF96?logo=khan-academy&labelColor=white&style=for-the-badge" />
+  </a>
 </p>
