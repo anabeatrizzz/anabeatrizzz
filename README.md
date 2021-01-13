@@ -1,4 +1,6 @@
-### 🧐️ __Fato interessante__: Ganhei o [Desafio333 de janeiro/2020](https://github.com/codigofalado/desafio333/pull/41)
+<p align="center">
+  <h3> 🧐️ Fato interessante: Ganhei o <a href="https://github.com/codigofalado/desafio333/pull/41">Desafio333 de janeiro/2020</a></h3>
+</p>
 
 <h2 align="center">Projetos</h2>
 
@@ -9,12 +11,14 @@
 | [Tela de Login](https://github.com/anabeatrizzz/mobile2-app-tres)<br>:book: Readme<br>:balance_scale: Licensed | | [API](https://github.com/anabeatrizzz/monaca-app-cinco)<br>:balance_scale: Licensed
 | [Veja mais...](https://github.com/anabeatrizzz?tab=repositories&q=react-native) | | [Veja mais...](https://github.com/anabeatrizzz?tab=repositories&q=monaca)
 
-<a href="https://www.freecodecamp.org/anabeatriz">
-  <img src="https://img.shields.io/badge/freeCodeCamp-0a0a23?logo=freeCodeCamp&labelColor=0a0a23&style=for-the-badge" />
-</a>
-<a href="https://codepen.io/anabeatrizzz">
-  <img src="https://img.shields.io/badge/CodePen-000000?logo=CodePen&labelColor=000000&style=for-the-badge" />
-</a>
-<a href="https://repl.it/@AnaBeatriz7">
-  <img src="https://img.shields.io/badge/Repl.it-667881?logo=repl.it&labelColor=white&style=for-the-badge" />
-</a>
+<p align="center">
+  <a href="https://www.freecodecamp.org/anabeatriz">
+    <img src="https://img.shields.io/badge/freeCodeCamp-0a0a23?logo=freeCodeCamp&labelColor=0a0a23&style=for-the-badge" />
+  </a>
+  <a href="https://codepen.io/anabeatrizzz">
+    <img src="https://img.shields.io/badge/CodePen-000000?logo=CodePen&labelColor=000000&style=for-the-badge" />
+  </a>
+  <a href="https://repl.it/@AnaBeatriz7">
+    <img src="https://img.shields.io/badge/Repl.it-667881?logo=repl.it&labelColor=white&style=for-the-badge" />
+  </a>
+</p>
