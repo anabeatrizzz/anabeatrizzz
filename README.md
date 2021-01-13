@@ -12,3 +12,6 @@
 | [Relógio](https://github.com/anabeatrizzz/mobile2-app-um)<br>:book: Readme<br>:balance_scale: Licensed | [proffy](https://github.com/anabeatrizzz/proffy-nlw)<br>:book: Readme<br>:grey_exclamation: Issues | [Aplicativo Calculadora](https://github.com/anabeatrizzz/monaca-app-dois)<br>:book: Readme<br>:balance_scale: Licensed
 | [Tela de Login](https://github.com/anabeatrizzz/mobile2-app-tres)<br>:book: Readme<br>:balance_scale: Licensed | | [API](https://github.com/anabeatrizzz/monaca-app-cinco)<br>:balance_scale: Licensed
 | [Veja mais...](https://github.com/anabeatrizzz?tab=repositories&q=react-native) | | [Veja mais...](https://github.com/anabeatrizzz?tab=repositories&q=monaca)
+
+<!--<h2 align="center">Siga-me</h2>
+<img src="https://img.shields.io/badge/freeCodeCamp%20-%2343853D.svg?&style=for-the-badge&logo=freeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/anabeatriz"/>-->
