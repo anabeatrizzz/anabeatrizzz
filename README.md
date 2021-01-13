@@ -1,7 +1,3 @@
-<!--<p>Siga-me: </p>
-<a href="https://www.freecodecamp.org/anabeatriz"><img src="https://www.freecodecamp.org/favicon-32x32.png?v=6cba562cbd10e31af925a976f3db73f7" /></a>
-<a href="https://codepen.io/anabeatrizzz/"><img src="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" /></a>-->
-
 ### 🧐️ __Fato interessante__: Ganhei o [Desafio333 de janeiro/2020](https://github.com/codigofalado/desafio333/pull/41)
 
 <h2 align="center">Projetos</h2>
@@ -13,5 +9,9 @@
 | [Tela de Login](https://github.com/anabeatrizzz/mobile2-app-tres)<br>:book: Readme<br>:balance_scale: Licensed | | [API](https://github.com/anabeatrizzz/monaca-app-cinco)<br>:balance_scale: Licensed
 | [Veja mais...](https://github.com/anabeatrizzz?tab=repositories&q=react-native) | | [Veja mais...](https://github.com/anabeatrizzz?tab=repositories&q=monaca)
 
-<!--<h2 align="center">Siga-me</h2>
-<img src="https://img.shields.io/badge/freeCodeCamp%20-%2343853D.svg?&style=for-the-badge&logo=freeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/anabeatriz"/>-->
+<a href="https://www.freecodecamp.org/anabeatriz">
+  <img src="https://img.shields.io/badge/freeCodeCamp-0a0a23?logo=freeCodeCamp&labelColor=0a0a23&style=for-the-badge"/>
+</a>
+<a href="https://www.freecodecamp.org/anabeatriz">
+  <img src="https://img.shields.io/badge/CodePen-000000?logo=CodePen&labelColor=000000&style=for-the-badge"/>
+</a>
