@@ -4,7 +4,7 @@
 
 | React Native | React | JS, HTML, CSS | C# | Python
 | :---: | :---: | :---: | :---: | :---:
-| [Lanchonete Ana Banana](https://github.com/anabeatrizzz/mobile2-app-quatro)<br>:book: Readme<br>:balance_scale: Licensed | [anaflix](https://github.com/anabeatrizzz/anaflix)<br>:book: Readme<br>:grey_exclamation: Issues<br>:balance_scale: Licensed | [Aplicativo Clima Tempo](https://github.com/anabeatrizzz/api-clima-tempo)<br>:balance_scale: Licensed | [Números Romanos](https://github.com/anabeatrizzz/atv-qts) | [Formatador Aritmético](https://github.com/anabeatrizzz/formatador-aritmetico)
+| [Lanchonete Ana Banana](https://github.com/anabeatrizzz/mobile2-app-quatro)<br>:book: Readme<br>:balance_scale: Licensed | [anaflix](https://github.com/anabeatrizzz/anaflix)<br>:book: Readme<br>:grey_exclamation: Issues<br>:balance_scale: Licensed | [Aplicativo Clima Tempo](https://github.com/anabeatrizzz/api-clima-tempo)<br>:balance_scale: Licensed | [Números Romanos](https://github.com/anabeatrizzz/atv-qts) | [Formatador Aritmético](https://github.com/anabeatrizzz/formatador-aritmetico)<br>:book: Readme
 | [Relógio](https://github.com/anabeatrizzz/mobile2-app-um)<br>:book: Readme<br>:balance_scale: Licensed | [proffy](https://github.com/anabeatrizzz/proffy-nlw)<br>:book: Readme<br>:grey_exclamation: Issues | [Aplicativo Calculadora](https://github.com/anabeatrizzz/monaca-app-dois)<br>:book: Readme<br>:balance_scale: Licensed
 | [Tela de Login](https://github.com/anabeatrizzz/mobile2-app-tres)<br>:book: Readme<br>:balance_scale: Licensed | | [API](https://github.com/anabeatrizzz/monaca-app-cinco)<br>:balance_scale: Licensed
 | [Veja mais...](https://github.com/anabeatrizzz?tab=repositories&q=react-native) | | [Veja mais...](https://github.com/anabeatrizzz?tab=repositories&q=monaca)
@@ -18,11 +18,5 @@
   </a>
   <a href="https://repl.it/@AnaBeatriz7">
     <img src="https://img.shields.io/badge/Repl.it-667881?logo=repl.it&labelColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.hackerrank.com/anabeatrizz">
-    <img src="https://img.shields.io/badge/hackerrank-2EC866?logo=hackerrank&labelColor=black&style=for-the-badge" />
-  </a>
-  <a href="https://www.khanacademy.org/profile/anabeeeatriz">
-    <img src="https://img.shields.io/badge/khan academy-14BF96?logo=khan-academy&labelColor=white&style=for-the-badge" />
   </a>
 </p>
