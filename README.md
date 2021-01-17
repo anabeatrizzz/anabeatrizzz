@@ -10,16 +10,16 @@
 | [Veja mais...](https://github.com/anabeatrizzz?tab=repositories&q=react-native) | | [Veja mais...](https://github.com/anabeatrizzz?tab=repositories&q=monaca)
 
 <p align="center">
-  <a href="https://www.freecodecamp.org/anabeatriz">
+  <a target="_blank" href="https://www.freecodecamp.org/anabeatriz">
     <img src="https://img.shields.io/badge/freeCodeCamp-0a0a23?logo=freeCodeCamp&labelColor=0a0a23&style=for-the-badge" />
   </a>
-  <a href="https://repl.it/@AnaBeatriz7">
+  <a target="_blank" href="https://repl.it/@AnaBeatriz7">
     <img src="https://img.shields.io/badge/Repl.it-667881?logo=repl.it&labelColor=f2f2f2&style=for-the-badge" />
   </a>
-  <a href="https://www.sololearn.com/Profile/5398638">
+  <a target="_blank" href="https://www.sololearn.com/Profile/5398638">
     <img src="https://img.shields.io/badge/sololearn-1ABC9C?logo=SoloLearn&labelColor=f2f2f2&style=for-the-badge" />
   </a>
-  <a href="https://codepen.io/anabeatrizzz">
+  <a target="_blank" href="https://codepen.io/anabeatrizzz">
     <img src="https://img.shields.io/badge/CodePen-000000?logo=CodePen&labelColor=000000&style=for-the-badge" />
   </a>
 </p>
