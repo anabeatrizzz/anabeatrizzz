@@ -2,12 +2,12 @@
 
 <h2 align="center">Projetos</h2>
 
-| React Native | React | JS, HTML, CSS | C# | Python
-| :---: | :---: | :---: | :---: | :---:
-| [Lanchonete Ana Banana](https://github.com/anabeatrizzz/mobile2-app-quatro)<br><span title="Readme">:book:</span> | [anaflix](https://github.com/anabeatrizzz/anaflix)<br><span title="Readme">:book:</span> <span title="Issues">:grey_exclamation:</span> <span title="Licensed">:balance_scale:</span> <span title="Production enviroment">:rocket:</span> | [Aplicativo Clima Tempo](https://github.com/anabeatrizzz/api-clima-tempo)<br><span title="Licensed">:balance_scale:</span> | [Números Romanos](https://github.com/anabeatrizzz/atv-qts) | [Formatador Aritmético](https://github.com/anabeatrizzz/formatador-aritmetico)<br><span title="Readme">:book:</span>
-| [Relógio](https://github.com/anabeatrizzz/mobile2-app-um)<br><span title="Readme">:book:</span> <span title="Licensed">:balance_scale:</span> | [proffy](https://github.com/anabeatrizzz/proffy-nlw)<br><span title="Readme">:book:</span> <span title="Issues">:grey_exclamation:</span> | [Aplicativo Calculadora](https://github.com/anabeatrizzz/monaca-app-dois)<br><span title="Readme">:book:</span> <span title="Licensed">:balance_scale:</span>
-| [Tela de Login](https://github.com/anabeatrizzz/mobile2-app-tres)<br><span title="Readme">:book:</span> <span title="Licensed">:balance_scale:</span> | [Quiz](https://github.com/anabeatrizzz/quiz-se)<br><span title="Issues">:grey_exclamation:</span> <span title="Production enviroment">:rocket:</span> | [API](https://github.com/anabeatrizzz/monaca-app-cinco)<br><span title="Licensed">:balance_scale:</span>
-| [Veja mais...](https://github.com/anabeatrizzz?tab=repositories&q=react-native) | | [Veja mais...](https://github.com/anabeatrizzz?tab=repositories&q=monaca)
+| React Native | React | C# | Python
+| :---: | :---: | :---: | :---:
+| [Lanchonete Ana Banana](https://github.com/anabeatrizzz/mobile2-app-quatro)<br><span title="Readme">:book:</span> | [anaflix](https://github.com/anabeatrizzz/anaflix)<br><span title="Readme">:book:</span> <span title="Issues">:grey_exclamation:</span> <span title="Licensed">:balance_scale:</span> <span title="Production enviroment">:rocket:</span> | [Números Romanos](https://github.com/anabeatrizzz/atv-qts) | [Formatador Aritmético](https://github.com/anabeatrizzz/formatador-aritmetico)<br><span title="Readme">:book:</span>
+| [Relógio](https://github.com/anabeatrizzz/mobile2-app-um)<br><span title="Readme">:book:</span> <span title="Licensed">:balance_scale:</span> | [proffy](https://github.com/anabeatrizzz/proffy-nlw)<br><span title="Readme">:book:</span> <span title="Issues">:grey_exclamation:</span>
+| [Tela de Login](https://github.com/anabeatrizzz/mobile2-app-tres)<br><span title="Readme">:book:</span> <span title="Licensed">:balance_scale:</span> | [Quiz](https://github.com/anabeatrizzz/quiz-se)<br><span title="Issues">:grey_exclamation:</span> <span title="Production enviroment">:rocket:</span>
+| [Veja mais...](https://github.com/anabeatrizzz?tab=repositories&q=react-native) | | 
 
 <p align="center">
   <a target="_blank" href="https://www.freecodecamp.org/anabeatriz">
