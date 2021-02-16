@@ -5,7 +5,7 @@
 | React Native | React | C# | Python
 | :---: | :---: | :---: | :---:
 | [Lanchonete Ana Banana](https://github.com/anabeatrizzz/mobile2-app-quatro)<br><span title="Readme">:book:</span> | [anaflix](https://github.com/anabeatrizzz/anaflix)<br><span title="Readme">:book:</span> <span title="Issues">:grey_exclamation:</span> <span title="Licensed">:balance_scale:</span> <span title="Production enviroment">:rocket:</span> | [Números Romanos](https://github.com/anabeatrizzz/atv-qts) | [Formatador Aritmético](https://github.com/anabeatrizzz/formatador-aritmetico)<br><span title="Readme">:book:</span>
-| [Relógio](https://github.com/anabeatrizzz/mobile2-app-um)<br><span title="Readme">:book:</span> <span title="Licensed">:balance_scale:</span> | [proffy](https://github.com/anabeatrizzz/proffy-nlw)<br><span title="Readme">:book:</span> <span title="Issues">:grey_exclamation:</span>
+| [Relógio](https://github.com/anabeatrizzz/mobile2-app-um)<br><span title="Readme">:book:</span> <span title="Licensed">:balance_scale:</span> | [proffy](https://github.com/anabeatrizzz/proffy-nlw)<br><span title="Readme">:book:</span> <span title="Issues">:grey_exclamation:</span> | [Jogo da velha](https://github.com/anabeatrizzz/tic-tac-toe)
 | [Tela de Login](https://github.com/anabeatrizzz/mobile2-app-tres)<br><span title="Readme">:book:</span> <span title="Licensed">:balance_scale:</span> | [Quiz](https://github.com/anabeatrizzz/quiz-se)<br><span title="Issues">:grey_exclamation:</span> <span title="Production enviroment">:rocket:</span>
 | [Veja mais...](https://github.com/anabeatrizzz?tab=repositories&q=react-native) | | 
 
